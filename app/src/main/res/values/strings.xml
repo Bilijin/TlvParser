@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TLVParser</string>
+    <string name="error_blank_data">"Please input the tlv data you wish to parse"</string>
+    <string name="error_uneven_length">TLV string must contain an even number of digits</string>
+    <string name="input_tlv">Input the TLV data into the input field below</string>
+    <string name="length">Length\n(bytes)</string>
+    <string name="parse_tlv">Parse TLV</string>
+    <string name="tag">Tag</string>
+    <string name="value">Value</string>
+</resources>
